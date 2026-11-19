@@ -1,5 +1,4 @@
 # PlayMetrics — Google Play Store Install Trend Dashboard
-
 ## Run
 ```bash
 pip install -r requirements.txt
