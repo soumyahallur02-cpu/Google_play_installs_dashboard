@@ -4,7 +4,6 @@
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
 ## Features
 - Refined Streamlit layout with custom CSS, sidebar, hero header, KPI cards and tables.
 - Requested filters: Reviews > 500; app name does not contain S; app name does not start X/Y/Z; category starts E/C/B.
